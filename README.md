@@ -18,3 +18,8 @@ lessons learned
 Anlegen GitRepo mit gitgnore und readme
 Basic Workflow git <-> Github
 
+
+
+     Aenderungen durchgefuehrt
+
+  
