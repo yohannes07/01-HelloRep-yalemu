@@ -9,7 +9,7 @@ Entwicklungsplatform: Windows 11
 
 
 Habe 1x Clone ausgeführt
-Jetzt möchte ich online Änderung 
+Jetzt möchte ich online Änderung auch lokal haben
 
 
 
